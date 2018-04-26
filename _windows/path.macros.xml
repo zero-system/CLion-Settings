@@ -1,0 +1,9 @@
+<application>
+  <component name="PathMacrosImpl">
+    <macro name="FILE_PATH" value="C:/Users/Zero_System/Documents/Arduino/FlowSensor" />
+    <ignoredMacro name="MESSAGE" />
+    <ignoredMacro name="FILE_PATH" />
+    <ignoredMacro name="LINE" />
+    <ignoredMacro name="COLUMN" />
+  </component>
+</application>
