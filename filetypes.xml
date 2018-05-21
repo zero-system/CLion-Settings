@@ -3,8 +3,6 @@
     <extensionMap>
       <mapping ext="pde" type="ObjectiveC" />
       <mapping ext="ino" type="ObjectiveC" />
-      <mapping ext="a" type="PLAIN_TEXT" />
-      <removed_mapping ext="a" type="UNKNOWN" />
     </extensionMap>
   </component>
 </application>
